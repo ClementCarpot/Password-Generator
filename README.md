@@ -1,3 +1,3 @@
 # Password-Generator
 
-Pour tester l'application merci de vous rendre sur le lien suivant : https://clementcarpot.github.io/Password-Generator/
+Pour tester l'application merci de <a href="https://clementcarpot.github.io/Password-Generator/" cliquer ici</a>
